@@ -1,4 +1,4 @@
-[![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://www.google.com/url?sa=i&url=https%3A%2F%2F42wolfsburg.de%2Fembedded-systems%2F&psig=AOvVaw024CDM1w0gqMBLbhsd5VpN&ust=1686434582323000&source=images&cd=vfe&ved=2ahUKEwj6goDDmLf_AhW7RvEDHUeACQgQjRx6BAgAEAw))
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2F42wolfsburg.de%2Fembedded-systems%2F&psig=AOvVaw024CDM1w0gqMBLbhsd5VpN&ust=1686434582323000&source=images&cd=vfe&ved=2ahUKEwj6goDDmLf_AhW7RvEDHUeACQgQjRx6BAgAEAw)
 
 <h1 align="center">Hi 👋, I'm talha</h1>
 <h3 align="center">A Quality Engineer from Turkey</h3>
