@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mutlutalha&label=Profile%20views&color=0e75b6&style=flat" alt="mutlutalha" /> </p>
 
-- 🔭 I’m currently working on [ERA Electronics](https://www.era-electronic.com/)
-
 - 📫 How to reach me **mutlutalha@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
